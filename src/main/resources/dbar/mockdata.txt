@@ -1,0 +1,4 @@
+%table
+label	value
+sun	100
+moon	10
